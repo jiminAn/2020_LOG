@@ -14,3 +14,4 @@ kubernetes & docker
 ## 개인 공부
 - cracking the coding interview
 - 시원 스쿨
+- 백준 알고리즘 매일 풀기( 모르는 문제 나올 때 까지 풀기~)
