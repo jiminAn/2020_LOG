@@ -10,3 +10,7 @@ link <https://www.oss.kr/dev_competition>
 - 서버 스터디  
 kubernetes & docker
 - 알고리즘 스터디
+
+## 개인 공부
+- cracking the coding interview
+- 시원 스쿨
