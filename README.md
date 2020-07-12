@@ -7,8 +7,8 @@ link <https://dreamin.career/academy/ios>
 link <https://www.oss.kr/dev_competition> 
 
 ## 스터디
-- 서버 스터디  
-kubernetes & docker
+- Do it DeapLearning
+- Do it Node.js
 - 알고리즘 스터디
 
 ## 개인 공부
