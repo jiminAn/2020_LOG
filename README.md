@@ -12,3 +12,8 @@ link <https://www.oss.kr/dev_competition>
 - cracking the coding interview
 - 시원 스쿨
 - 백준 알고리즘 풀기( 모르는 문제 나올 때 까지 풀기~)
+
+## 티스토리 정리
+- 알고리즘, 자료구조 SW 강의 복습 겸 옮기기
+- 민고리즘 노트 정리 옮기기
+- 딥러닝 옮기기
