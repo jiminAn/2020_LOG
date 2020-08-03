@@ -3,7 +3,10 @@
 ## 대외활동
 - 공개 SW 개발자 대회(지원 완료)  
 link <https://www.oss.kr/dev_competition> 
-
+- TAcademy 딥러닝을 활용한 음성합성  
+link <https://tacademy.skplanet.com/front/tacademy/courseinfo/campus.action?classIndex=1632>
+- TAcademy 구글클라우드 플랫폼 기반의 데이터 엔지니어링 기초  
+link <https://tacademy.skplanet.com/front/tacademy/courseinfo/campus.action?classIndex=1632#>
 ## 스터디
 - Do it DeapLearning (매주 목)
 - 알고리즘 스터디 (매주 수)
