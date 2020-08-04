@@ -7,6 +7,8 @@ link <https://www.oss.kr/dev_competition>
 link <https://tacademy.skplanet.com/front/tacademy/courseinfo/campus.action?classIndex=1632>
 - TAcademy 구글클라우드 플랫폼 기반의 데이터 엔지니어링 기초  
 link <https://tacademy.skplanet.com/front/tacademy/courseinfo/campus.action?classIndex=1632#>
+- Codeforces Round #661 (Div. 3) 대회  
+link <https://codeforces.com/>
 ## 스터디
 - Do it DeapLearning (매주 목)
 - 알고리즘 스터디 (매주 수)
