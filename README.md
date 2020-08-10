@@ -3,7 +3,7 @@
 ## 대외활동
 - 공개 SW 개발자 대회(지원 완료)  
 link <https://www.oss.kr/dev_competition> 
-- TAcademy 딥러닝을 활용한 음성합성(승인완료 -> 2020/08/13 목 13~16 sk플래닛 T아카데미(공덕역 4번 출구, 프론트윈 4층 세미나실)
+- TAcademy 딥러닝을 활용한 음성합성(승인완료 -> 2020/08/13 목 13~16 sk플래닛 T아카데미(공덕역 4번 출구, 프론트윈 4층 세미나실)  
 link <https://tacademy.skplanet.com/front/tacademy/courseinfo/campus.action?classIndex=1632>
 - TAcademy 구글클라우드 플랫폼 기반의 데이터 엔지니어링 기초  
 link <https://tacademy.skplanet.com/front/tacademy/courseinfo/campus.action?classIndex=1632#>
