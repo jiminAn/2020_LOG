@@ -25,7 +25,7 @@ link <https://tacademy.skplanet.com/front/tacademy/courseinfo/campus.action?clas
 # 2020-2학기 일지
 
 ## 학교 전공 공부
-: 평일동안 강의+과제 끝내기  
+### 평일동안 강의+과제 끝내기  
 1. 고급객체지향프로그래밍
 2. 유닉스프로그래밍
 3. 프로그래밍 언어론
@@ -33,7 +33,7 @@ link <https://tacademy.skplanet.com/front/tacademy/courseinfo/campus.action?clas
 5. 인공지능 기초
 6. 인공지능 사회와 윤리
 7. SW 영어 2    
-: 주말동안 공부할 책
+### 주말동안 공부할 책
 1. 디자인 패턴
 2. 자연어처리 바이블
 3. 유닉스 시스템과 프로그래밍
