@@ -30,7 +30,8 @@ link <https://tacademy.skplanet.com/front/tacademy/courseinfo/campus.action?clas
 4. 자연어 처리 : 티스토리 & 깃허브 
 5. 인공지능 기초 : 깃허브
 6. 인공지능 사회와 윤리
-7. SW 영어 2 : 티스토리    
+7. SW 영어 2 : 티스토리
+
 ### 주말동안 공부할 책
 1. 디자인 패턴
 2. 자연어처리 바이블
@@ -41,3 +42,4 @@ link <https://tacademy.skplanet.com/front/tacademy/courseinfo/campus.action?clas
 
 ## 프로젝트
 - GAN Style Transfer 
+- 자연어처리 팀 프로젝트
