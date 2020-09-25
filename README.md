@@ -39,6 +39,7 @@ link <https://tacademy.skplanet.com/front/tacademy/courseinfo/campus.action?clas
 
 ## 스터디
 - 알고리즘 스터디(주 1회 문제 풀이 및 코드 리뷰)
+- MOOC 스터디 : 파이썬 머신러닝 완벽 가이드
 
 ## 프로젝트
 - GAN Style Transfer 
