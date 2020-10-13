@@ -23,7 +23,7 @@ link <https://tacademy.skplanet.com/front/tacademy/courseinfo/campus.action?clas
 # 2020-2학기 일지
 
 ## 학교 전공 공부
-### 평일동안 강의+과제 끝내기  
+### 평일동안 강의 + 과제 끝내기  
 1. 고급객체지향프로그래밍 : 티스토리
 2. 유닉스프로그래밍 : 티스토리
 3. 프로그래밍 언어론 : 티스토리
@@ -43,4 +43,4 @@ link <https://tacademy.skplanet.com/front/tacademy/courseinfo/campus.action?clas
 
 ## 프로젝트
 - GAN Style Transfer 
-- 자연어처리 팀 프로젝트
+- KPOP NLP 프로젝트
