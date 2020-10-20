@@ -1,10 +1,36 @@
+# 2020-1학기 일지
+
+## 학교 전공 공부
+1. 프로그래밍 디자인
+2. 디지털신호처리
+3. UI/UX 프로그래밍
+4. 소프트웨어 공학
+5. 파이썬 프로그래밍
+6. 운영체제
+
+## 개인 공부
+1. 디지털 신호처리 thinkDSP
+- 공부 깃허브 주소 : <https://github.com/jiminAn/study-thinkDSP/tree/master/code%20>
+
+## 스터디
+1. 알고리즘 스터디(주 1회 SW Expert Academy 강의 듣고 발표 및 코드 리뷰)
+- SW Expert Academy : <https://swexpertacademy.com/main/learn/course/subjectList.do?courseId=AVuPDYSqAAbw5UW6>
+- 알고리즘 깃허브 주소 : <https://github.com/jiminAn/Algorithm>
+
+
+## 개인 프로젝트
+1. 프로세싱 프로젝트
+- 프로젝트 깃허브 주소 : <https://github.com/jiminAn/ProcessingProject>
+
 # 2020 여름 방학 일지
 
 ## 대외활동
-- 공개 SW 개발자 대회(지원 완료)  
-link <https://www.oss.kr/dev_competition> 
-- TAcademy 딥러닝을 활용한 음성합성(승인완료 -> 2020/08/13 목 13~16 sk플래닛 T아카데미(공덕역 4번 출구, 프론트윈 4층 세미나실)  
-link <https://tacademy.skplanet.com/front/tacademy/courseinfo/campus.action?classIndex=1632>
+1. 공개 SW 개발자 대회(지원 완료)  
+- 대회 홈페이지 : <https://www.oss.kr/dev_competition> 
+- 출품작 깃허브 주소 : <https://github.com/jiminAn/hand_writing_correction_website>
+2. TAcademy 딥러닝을 활용한 음성합성(승인완료 -> 2020/08/13 목 13~16 sk플래닛 T아카데미(공덕역 4번 출구, 프론트윈 4층 세미나실)  
+- TAcademy 홈페이지 : <https://tacademy.skplanet.com/front/tacademy/courseinfo/campus.action?classIndex=1632>
+- 내용 정리 깃허브 주소 : <https://github.com/jiminAn/IT_Seminar/blob/master/SKT_T_Academy/%ED%86%A0%ED%81%AC%EC%98%A8%EC%84%B8%EB%AF%B8%EB%82%98_%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9D%84%ED%99%9C%EC%9A%A9%ED%95%9C%EC%9D%8C%EC%84%B1%ED%95%A9%EC%84%B1(2)/README.md>
 
 ## 스터디
 - Do it DeapLearning (매주 목)
@@ -38,9 +64,13 @@ link <https://tacademy.skplanet.com/front/tacademy/courseinfo/campus.action?clas
 3. 유닉스 시스템과 프로그래밍
 
 ## 스터디
-- 알고리즘 스터디(주 1회 문제 풀이 및 코드 리뷰)
-- MOOC 스터디 : 파이썬 머신러닝 완벽 가이드
+1. 알고리즘 스터디(주 1회 문제 풀이 및 코드 리뷰)
+- 알고리즘 깃허브 주소 : <https://github.com/jiminAn/Algorithm>
+2. MOOC 스터디 : 파이썬 머신러닝 완벽 가이드
+- 깃허브 주소 : <https://github.com/jiminAn/Python_Machine_Learning_Guide>
 
 ## 프로젝트
-- GAN Style Transfer 
-- KPOP NLP 프로젝트
+1. GAN Style Transfer 
+- 깃허브 주소 : <https://github.com/jiminAn/GAN-style-transfer>
+2. KPOP NLP 프로젝트
+- 깃허브 주소 : <https://github.com/jiminAn/Kpop_NLP_Project>
