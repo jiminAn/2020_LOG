@@ -1,3 +1,30 @@
+# 2019-2 학기 일지
+
+## 학교 전공 공부
+1. 데이터베이스
+2. 시스템소프트웨어
+3. 객체지향 프로그래밍
+4. 알고리즘
+
+### 참고 책
+1. 명품 자바 프로그래밍
+2. 데이타베이스 시스템과 오라클
+
+## 스터디
+1. 멘토링 : 동아리 이니로 C언어 멘토
+
+## 대외활동
+1. 서울시 앱 개발 공모전(지원 완료)
+- 출품작 깃허브 주소 <https://github.com/jiminAn/DDUBUCK_SEOUL>
+
+# 2019 겨울 방학 일지
+## 스터디
+1. 코틀린 및 안드로이드 앱 개발 스터디
+
+## 프로젝트
+1. 인스타그램 클론 앱 개발
+- 깃허브 주소 <https://github.com/jiminAn/instargram_copy_project>
+
 # 2020-1학기 일지
 
 ## 학교 전공 공부
@@ -16,7 +43,7 @@
 1. 알고리즘 스터디(주 1회 SW Expert Academy 강의 듣고 발표 및 코드 리뷰)
 - SW Expert Academy : <https://swexpertacademy.com/main/learn/course/subjectList.do?courseId=AVuPDYSqAAbw5UW6>
 - 알고리즘 깃허브 주소 : <https://github.com/jiminAn/Algorithm>
-
+2. 프로그래밍 동아리 회장 : 학교 중앙동아리 <이니로>
 
 ## 개인 프로젝트
 1. 프로세싱 프로젝트
@@ -58,8 +85,8 @@
 6. 인공지능 사회와 윤리
 7. SW 영어 2 : 티스토리
 
-### 주말동안 공부할 책
-1. 디자인 패턴
+### 참고 책
+1. Head First Design pattern
 2. 자연어처리 바이블
 3. 유닉스 시스템과 프로그래밍
 
